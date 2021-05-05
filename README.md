@@ -4,7 +4,7 @@
 ![Horizontal Scrolling Tabs](<HorizontalScrollingTabs-Presentation.jpg>)
 
 ## Description
-This simple solution uses only [Bootstrap](https://getbootstrap.com/) CSS and [jQuery](https://jquery.com/) Libraries to leave more space for your creativity! 
+This simple solution uses only [Bootstrap](https://getbootstrap.com/) and [jQuery](https://jquery.com/) Libraries to leave more space for your creativity! 
 
 ## Usage
 
@@ -22,6 +22,6 @@ Place the short script to any place HTML-document as a code between tags ***<scr
 
 #### CSS
 
-Add your own styles to customize scrolling navs / tabs.
+No CSS included! Add your own styles to customize component.
 
 

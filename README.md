@@ -1,6 +1,8 @@
 # Horizontal Scrolling Tabs
 ***An easy way to make Bootstrap "nav" or "nav-tabs" section scrollable on mobile screens***
 
+![Horizontal Scrolling Tabs](<HorizontalScrollingTabs-Presentation.jpg>)
+
 ## Description
 This simple solution uses only [Bootstrap](https://getbootstrap.com/) CSS and [jQuery](https://jquery.com/) Libraries to leave more space for your creativity! 
 
